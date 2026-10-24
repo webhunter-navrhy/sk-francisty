@@ -1,0 +1,55 @@
+{
+  "slug": "sk-francisty",
+  "nazev": "Ing. Slavomír Francisty",
+  "url": "https://webhunter-navrhy.github.io/sk-francisty/",
+  "base": "/sk-francisty/",
+  "lang": "sk",
+  "popis": "Ing. Slavomír Francisty – nájomný manažér z Košíc: riadenie projektov, zmien a výroby vo firmách na dohodnuté obdobie a za dohodnutý výsledok.",
+  "navrh": true,
+  "domena": "",
+  "og_image": "og.jpg",
+  "logo": "logo.png",
+  "theme_color": "#f6f5e3",
+  "typ": "ProfessionalService",
+  "ico": "41855779",
+  "kontakt": {
+    "email": "francisty@francisty.sk",
+    "telefon": "+421 907 833 138",
+    "adresa": {
+      "ulice": "",
+      "psc": "",
+      "mesto": "Košice",
+      "zeme": "SK"
+    }
+  },
+  "oteviraci_doba": [],
+  "sameas": [],
+  "cenove_rozpeti": "",
+  "formular": {
+    "endpoint": "",
+    "demo": true,
+    "predmet": "Dopyt z webu francisty.sk"
+  },
+  "nav": [
+    {
+      "text": "Nájomný manažér",
+      "href": "#manazer"
+    },
+    {
+      "text": "Postup",
+      "href": "#postup"
+    },
+    {
+      "text": "Referencie",
+      "href": "#referencie"
+    },
+    {
+      "text": "O mne",
+      "href": "#o-mne"
+    },
+    {
+      "text": "Kontakt",
+      "href": "#kontakt"
+    }
+  ]
+}

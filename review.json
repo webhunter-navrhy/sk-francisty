@@ -1,0 +1,17 @@
+{
+  "znamka": 8,
+  "slabiny": [
+    "Hero na PC (buňka 1–2): fotka pořád chybí. Náhradní řešení je hotové jen napůl. Karta je teď pod nadpisem jako vodorovný pruh s 5 sloupci, ale nadpis ‚Manažér na dohodnutú úlohu…‘ zabírá jen asi dvě třetiny šířky, vpravo zůstává prázdná béžová plocha a pruh karty na 1440×900 uřízne spodní okraj obrazovky. Oprava: nadpisu dát max-width přes celý obsah (zhruba 1200 px) s font-size kolem 6–7vw a zmenšit horní padding hero, aby se celý pruh vešel do prvního výřezu. Ve shrnutí Rafaelovi napsat, že portrét Ing. Francistyho chybí.",
+    "Hlavička na mobilu (mobil 1): menu se láme do dvou řádků a ‚Kontakt‘ zůstává sám na druhém řádku. Nad hero tak zabírá asi 140 px a působí rozbitě. Oprava: na šířkách do 600 px dát menu do jednoho řádku s menšími mezerami nebo ho schovat za tlačítko ‚Menu‘ a ‚Kontakt‘ nechat jako výrazné tlačítko vpravo vedle loga.",
+    "Sekce ‚Čo je výsledkom mojej práce – neustále‘ na PC (buňka 4 dole až buňka 5 nahoře): šest položek je drobným písmem kolem 13 px ve 3 sloupcích s tenkými linkami. Závěrečná věta ‚Mojím klientom môže byť…‘ je stejně drobná a hned pod ní je tmavší béžový pruh asi 50 px, který vypadá jako zbytek pozadí sekce. Oprava: položky zvětšit na 18–20 px písmem nadpisů (Young Serif) a dát je do 2 řad po 3, závěrečnou větu dát na 18 px a sjednotit pozadí s Referenciemi, aby pruh zmizel."
+  ],
+  "zavazne": [],
+  "silne": [
+    "Výtky z minulého kola jsou z velké části opravené. Referencie mají modré štítky oboru verzálkami (stavebníctvo, výroba, financie, telekomunikácie, zdravotníctvo) a na mobilu čitelné tmavé popisy. Pod citátem v O mne je podpis ‚— Ing. Slavomír Francisty‘. Blok Môj postup práce je na PC v jednom výřezu s linkou Analýza → Odovzdanie.",
+    "Brand drží: logo FRANCISTY je vlevo v hlavičce a kobaltová modrá z loga je jediný akcent na teplém béžovém podkladu. Young Serif s Figtree vykreslují slovenskou diakritiku (ž, ť, ô, č) bez potíží.",
+    "Obsah je převzatý z jeho webu (sekce Kedy nastupuje, Prečo si ho najať, kariéra po letech, reálné firmy v referencích) bez vymyšlených čísel. Kontakt je jasný: v hero je tlačítko ‚Napísať‘ a modrý blok Kontakt má e-mail a formulář.",
+    "QA je čisté: na žádné z 6 šířek nic nepřetéká, stránka má 0,17 MB a na mobilu je časová osa postupu svisle a je dobře čitelná."
+  ],
+  "verdikt": "Všechny tři minulé výtky jsou opravené, kromě zvětšení nadpisu v hero. Nová závažná vada není, takže web je čistý, s brandem klienta a pravdivý a lze ho odeslat. Zůstává ale textový a bez jediného obrázku, takže fotka Ing. Francistyho by mu nejvíc pomohla a Rafael by měl vědět, že chybí.",
+  "_hash": "39444a897e729746df832f01fed67ceed7209153"
+}
